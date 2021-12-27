@@ -1,0 +1,37 @@
+{
+  "name": "@mefaba/react-scroll-slide",
+  "version": "0.5.0",
+  "description": "React Slider on Scroll Event",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mefaba/react-scroll-slide.git"
+  },
+  "keywords": [
+    "scroll",
+    "react",
+    "scroll",
+    "react",
+    "fullpage",
+    "scrolller",
+    "react",
+    "fullpage",
+    "scroll",
+    "react",
+    "fullpage",
+    "scroll",
+    "slider"
+  ],
+  "author": "mefaba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mefaba/react-scroll-slide/issues"
+  },
+  "homepage": "https://github.com/mefaba/react-scroll-slide#readme",
+  "dependencies": {
+    "react": "^16.0.0"
+  }
+}
