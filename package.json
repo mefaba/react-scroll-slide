@@ -34,8 +34,10 @@
     "url": "https://github.com/mefaba/react-scroll-slide/issues"
   },
   "homepage": "https://github.com/mefaba/react-scroll-slide#readme",
-  "dependencies": {
-    "react": "^16.0.0"
+
+  "peerDependencies": {
+    "react": "^0.14.10 || ^15.0.0 || ^16.0.0 || ^17.0.0",
+    "react-dom": "^0.14.10 || ^15.0.0 || ^16.0.0 || ^17.0.0"
   },
   "devDependencies": {
     "microbundle": "^0.14.2"
