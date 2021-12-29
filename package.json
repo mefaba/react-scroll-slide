@@ -1,13 +1,13 @@
 {
   "name": "@mefaba/react-scroll-slide",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "description": "React Slider on Scroll Event",
   "source": "src/index.js",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "microbundle"
+    "build": "microbundle --jsx 'React.createElement' --jsxImportSource react --globals react/jsx-runtime=jsx --format modern,cjs"
   },
   "repository": {
     "type": "git",
