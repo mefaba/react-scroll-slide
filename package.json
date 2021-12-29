@@ -2,9 +2,12 @@
   "name": "@mefaba/react-scroll-slide",
   "version": "0.5.0",
   "description": "React Slider on Scroll Event",
-  "main": "src/index.js",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.modern.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "microbundle"
   },
   "repository": {
     "type": "git",
@@ -33,5 +36,8 @@
   "homepage": "https://github.com/mefaba/react-scroll-slide#readme",
   "dependencies": {
     "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "microbundle": "^0.14.2"
   }
 }
