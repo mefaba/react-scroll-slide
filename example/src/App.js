@@ -1,4 +1,3 @@
-//import logo from "./logo.svg";
 import "./App.css";
 import { ReactScrollSlide } from "@mefaba/react-scroll-slide";
 
