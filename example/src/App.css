@@ -1,0 +1,35 @@
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.page p {
+  font-size: 48px;
+}
+
+.color1 {
+  background-color: rgb(247, 255, 180);
+}
+.color2 {
+  background-color: rgb(141, 96, 150);
+}
+.color3 {
+  background-color: rgb(105, 153, 74);
+}
+.color4 {
+  background-color: rgb(255, 163, 163);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
