@@ -1,6 +1,6 @@
 {
   "name": "@mefaba/react-scroll-slide",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "React Slider on Scroll Event",
   "source": "src/index.js",
   "main": "dist/index.js",
