@@ -3,7 +3,7 @@
 	<a href="https://www.npmjs.com/package/@mefaba/react-scroll-slide">React Scroll Slide</a>
 </h1>
 
-
+1️⃣ **Install** by running: `npm install @mefaba/react-scroll-slide`
 
 ```js
 import "./App.css";
