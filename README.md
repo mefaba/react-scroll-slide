@@ -5,6 +5,8 @@
 
 1️⃣ **Install** by running: `npm install @mefaba/react-scroll-slide`
 
+2️⃣ **Check** implementation from example folder and demo website, <a href="https://react-scroll-slide-example.netlify.app/">Demo Link</a>
+
 ```js
 import "./App.css";
 import { ReactScrollSlide } from "@mefaba/react-scroll-slide";
